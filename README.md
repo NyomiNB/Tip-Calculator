@@ -3,7 +3,7 @@
 This is one of my first GUI projects!
 
   It required:
-  -  Get text + Set text methods
+     - Get text + Set text methods
      - Slider, button, jFrame + jPanel components
      - String format 
      - If else statements
