@@ -2,9 +2,11 @@
 
 This is one of my first GUI projects!
 
-  It required:
-     - Get text + Set text methods
-     - Slider, button, jFrame + jPanel components
-     - String format 
-     - If else statements
-     - Method calls
+  It required: 
+  - Use of methods
+    - Get text + Set text methods
+    - Creation of custom methods
+    - Use of return statements
+    - String format () method calls  
+  - Slider, button, jFrame + jPanel components
+  - If else statements
